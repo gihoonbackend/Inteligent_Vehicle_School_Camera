@@ -1,5 +1,5 @@
 # Cheongju University Camera(OpenCV) Lecture Notes<br>
-  Author : Gihoon SOng<br><br>
+  Author : Gihoon Song<br><br>
   Affiliation : UNICON LAB (HanYang University, South Korea)<br><br>
   Position : M.A. student<br><br>
   E-mail : sgh7344@hanyang.ac.kr<br><br>
