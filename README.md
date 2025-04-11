@@ -1,11 +1,3 @@
-# 스프레드시트 주소
-https://docs.google.com/spreadsheets/d/1kU9mkW-G5Wdw5V19o9MjrTp1RCOP0wrHysz9I4X7hQQ/edit?usp=sharing
-
-
-
-# API 키가 설정되어 있다면, 이 지점 이후의 코드가 실행됩니다.
-print("OPENAI_API_KEY가 정상적으로 설정되었습니다.")
-
 
 
 # Camera(OpenCV) Lecture Notes<br>
